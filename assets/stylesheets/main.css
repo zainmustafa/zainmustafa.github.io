@@ -71,11 +71,11 @@ table {
 }
 
 body, html {
-    background: #466368;
-    background-color: #dff9fb;
-    /*background: -webkit-linear-gradient(#73BAAA 25%, #002d60);
-    background: -moz-linear-gradient(#73BAAA 25%, #002d60);
-    background: linear-gradient(#73BAAA 25%, #002d60);*/
+    background: #ecf0f1;
+    background-color: #ecf0f1;
+    /* background: -webkit-linear-gradient(#757F9A 25%, #D7DDE8);
+    background: -moz-linear-gradient(#757F9A 25%, #D7DDE8);
+    background: linear-gradient(#757F9A 25%, #D7DDE8); */
 }
 
 a {
@@ -159,7 +159,7 @@ figure {
     bottom: 0;
     z-index: 10000;
     border-top: 4px solid #26ad99;
-    background-color: white;
+    background-color: #ecf0f1;
     /*background-color: rgba(0, 0, 0, 0.8);*/
 }
 
