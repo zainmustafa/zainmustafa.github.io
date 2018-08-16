@@ -1,7 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Helmet from 'react-helmet'
-
 import { About, Contact, Header, Main, Project } from '../components'
 
 import './index.css'
@@ -9,10 +7,10 @@ import './index.css'
 const Layout = ({ children }) => (
   <div>
     <Header />
-    <Contact/>
-    <Project/>
+    <Contact />
+    <Project />
     <About />
-    <Main/>
+    <Main />
     <div
       style={{
         margin: '0 auto',

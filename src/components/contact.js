@@ -11,7 +11,11 @@ const Contact = () => (
           <a href="mailto:zaindsu@gmail.com" target="_blank">
             <img className="icon" src="static/images/mail.png" />
           </a>
-          <a href="mailto:zaindsu@gmail.com" className="overlap" target="_blank">
+          <a
+            href="mailto:zaindsu@gmail.com"
+            className="overlap"
+            target="_blank"
+          >
             <img className="icon-hover" src="static/images/mail-hover.png" />
           </a>
         </div>
@@ -24,7 +28,10 @@ const Contact = () => (
             className="overlap"
             target="_blank"
           >
-            <img className="icon-hover" src="static/images/linkedin-hover.png" />
+            <img
+              className="icon-hover"
+              src="static/images/linkedin-hover.png"
+            />
           </a>
         </div>
       </div>
@@ -38,7 +45,10 @@ const Contact = () => (
             className="overlap"
             target="_blank"
           >
-            <img className="icon-hover" src="static/images/facebook-hover.png" />
+            <img
+              className="icon-hover"
+              src="static/images/facebook-hover.png"
+            />
           </a>
         </div>
         <div className="icon-container">

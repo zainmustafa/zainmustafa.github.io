@@ -6,7 +6,11 @@ const About = () => (
       <h2>about me</h2>
     </div>
     <div className="div-max-width">
-      <img className="border-img" src="static/images/portrait.png" width="200px" />
+      <img
+        className="border-img"
+        src="static/images/portrait.png"
+        width="200px"
+      />
       <p className="block-text">
         Hi, I'm Zain Mustafa, software developer born and raised in Karachi. Did
         my BS Computer Science from DHA Suffa University. Computer science and

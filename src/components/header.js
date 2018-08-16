@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Header = ({ siteTitle }) => (
+const Header = () => (
   <nav id="fixed-nav-bar">
     <ul>
       <li>
