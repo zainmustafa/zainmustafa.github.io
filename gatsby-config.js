@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Zain Mustafa',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -17,4 +18,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix : `/zainmustafa.github.io`
 }
