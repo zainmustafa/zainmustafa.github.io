@@ -1,5 +1,12 @@
 import React from 'react'
-
-const IndexPage = () => <div />
+import { About, Contact, Main, Project } from '../components'
+const IndexPage = () => (
+    <div>
+        <Contact />
+        <Project />
+        <About />
+        <Main />
+    </div>
+)
 
 export default IndexPage
