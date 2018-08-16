@@ -18,5 +18,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix : `/zainmustafa.github.io`
+  pathPrefix : `/`
 }
