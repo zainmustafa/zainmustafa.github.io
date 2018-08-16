@@ -1,16 +1,20 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { About, Contact, Header, Main, Project } from '../components'
+import { Header } from '../components'
+import Helmet from 'react-helmet'
 
 import './index.css'
 
 const Layout = ({ children }) => (
   <div>
+    <Helmet
+      title="Zain Mustafa"
+      meta={[
+        { name: 'description', content: 'Zain Mustafa Portfolio build with Gatsby, React' },
+        { name: 'keywords', content: 'Gatsby, React' },
+      ]}
+    />
     <Header />
-    <Contact />
-    <Project />
-    <About />
-    <Main />
     <div
       style={{
         margin: '0 auto',
