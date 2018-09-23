@@ -29,7 +29,7 @@ const About = () => (
       </p>
       <p className="block-text">
         Aside from programming, I love reading non fiction and watching seasons.
-        Athletics-wise, I play cricket for my club and swimming on the weekends{' '}
+        Athletics-wise, I love playing cricket and floating on water{' '}
       </p>
     </div>
   </section>
