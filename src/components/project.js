@@ -15,14 +15,14 @@ const Projects = () => (
             <p>TensorFlow, React, Node.js</p>
             <p>
               <a href="http://freshairsensor.com/" target="_blank">
-                Site
+                Site&nbsp;&nbsp;
               </a>
               <a
                 href="https://www.cnet.com/reviews/freshair-sensor-airguard-preview/"
                 target="_blank"
               >
-                CNET Post
-              </a>&nbsp;&nbsp;
+                CNET-Post
+              </a>
             </p>
           </figcaption>
         </figure>
