@@ -66,7 +66,7 @@ const Contact = () => (
       </div>
     </div>
     <div className="bottom-absolute">
-      <p className="copyright">&copy; Zain Mustafa 2018</p>
+      <p className="copyright">&copy; Zain Mustafa 2019</p>
     </div>
   </section>
 )
