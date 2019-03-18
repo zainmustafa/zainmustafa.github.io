@@ -12,24 +12,24 @@ const About = () => (
         width="200px"
       />
       <p className="block-text">
-        Hi, I'm Zain Mustafa, software developer born and raised in Karachi. Did
+        Software developer born and raised in Karachi. Did
         my BS Computer Science from DHA Suffa University. Computer science and
-        design are two of my greatest passions, and I love channeling my
+        Graphic Designing are two of my greatest passions, and I love channeling my
         enthusiasm for both through personal projects. I love to learn new
         things and am always eager to accept constructive criticism and new
         ideas.
       </p>
       <p className="block-text">
-        I'm proficient in JavaScipt with 3+ years of experience in developing
+        I'm proficient in JavaScipt with 4+ years of experience in developing
         high performance web applications and services. My skill set include,
-        but not limited to, ReactJS, React Native, Javascript, HTML, CSS,
+        but not limited to, ReactJS, GraphQL, React Native, Javascript,
         Bootstrap, Redux, RxJS, NodeJS, ExpressJS, AngularJS, MySQL, MongoDB,
         Postgres, Firebase, Test Driven Development, AWS Web Services and
         Product Design.
       </p>
       <p className="block-text">
-        Aside from programming, I love reading non fiction and watching seasons.
-        Athletics-wise, I love playing cricket and floating on water{' '}
+        Aside from programming, I love reading non fiction and watiching seasons.
+        I also love playing cricket and swimming{' '}
       </p>
     </div>
   </section>
